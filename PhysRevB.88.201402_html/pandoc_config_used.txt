@@ -1,0 +1,5 @@
+Pandoc configuration used: Pandoc with hard line breaks
+Command: pandoc --from=markdown+hard_line_breaks+citations+footnotes+tex_math_dollars temp_output.md -o output.html --standalone --mathjax --css=academic_style.css --metadata title=PhysRevB.88.201402 --toc --wrap=none
+Generated on: 2025-05-29 09:22:28
+Styling: Professional academic CSS applied
+Preprocessing: References section formatted for proper line breaks
